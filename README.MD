@@ -32,6 +32,11 @@ Recentemente, meu **TG** foi aceito, e o tema foi sobre **vazamento de dados e p
 
 ---
 
+## 📊 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavopmb&layout=compact&theme=radical)
+
+---
+
 ## Fique em contato
 - 📧 **Email**: [gustavopacheco8935@gmail.com](mailto:gustavopacheco8935@gmail.com)
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/gustavopmb/](https://www.linkedin.com/in/gustavopmb/)
