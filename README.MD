@@ -1,5 +1,8 @@
 # Olá, bem-vindo ao meu perfil! 👋
 
+## 📊 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavopmb&layout=compact&theme=radical)
+
 ## Quem sou eu?
 Sou tecnólogo em **Sistemas para Internet**, formado pela **Faculdade de Tecnologia Prof. José Camargo - Fatec Jales**. Tenho 21 anos e vivo em **Urânia - SP**. Tenho uma grande paixão por tecnologia, segurança digital e inovações. Trabalho no escritório durante o dia e, à noite, estou sempre buscando aprender mais sobre as tendências do setor.
 
@@ -29,11 +32,6 @@ Recentemente, meu **TG** foi aceito, e o tema foi sobre **vazamento de dados e p
 - **Tendências em tecnologias emergentes**, como IA e blockchain.
 - Melhorias no desenvolvimento de software e práticas de segurança.
 - Estou fazendo vários cursos na **Rocketseat**, que estão me ajudando a aprimorar minhas habilidades como desenvolvedor.
-
----
-
-## 📊 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavopmb&layout=compact&theme=radical)
 
 ---
 
